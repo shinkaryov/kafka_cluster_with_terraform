@@ -19,3 +19,4 @@ resource "null_resource" "create_topics" {
   EOF
   }
 }
+
